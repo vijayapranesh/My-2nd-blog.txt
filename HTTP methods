@@ -34,5 +34,5 @@ While the Document and Window objects are closely related and often work togethe
 
 3. Responsiveness: The Document object focuses on manipulating the content and structure of the web page, while the Window object primarily deals with the interaction between the user and the browser. The Window object handles events, navigation, and user interaction.
 
-Conclusion:
+Conclusion
 Understanding the differences between the Document and Window objects is crucial for effective web development. The Document object provides access to the elements and content within a web page, enabling manipulation of its structure. On the other hand, the Window object controls the behavior of the browser window and facilitates user interaction. By leveraging the functionalities of both objects, developers can create dynamic and interactive web experiences.￼Enter
